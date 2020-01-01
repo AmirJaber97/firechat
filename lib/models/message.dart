@@ -102,7 +102,7 @@ List<Message> chats = [
     sender: beatrice,
     time: '5:30 PM',
     text: 'Hey How are you?',
-    isLiked: false,
+    isLiked: true,
     isRead: true,
   ),
 ];
@@ -133,7 +133,7 @@ List<Message> messages = [
     sender: denise,
     time: '2:30 PM',
     text: 'Hey How are you?',
-    isLiked: false,
+    isLiked: true,
     isRead: true,
   ),
   Message(
